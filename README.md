@@ -1,2 +1,3 @@
-# cookiegen
-sensor generator
+# Add this custom parameter to your requests
+
+?Akamai=false
